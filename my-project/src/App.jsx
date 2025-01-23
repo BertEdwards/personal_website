@@ -1,5 +1,16 @@
+
+
+/**
+ * Components
+ */
+
+import Header from "./Components/header";
+
 const App = () => {
-    return <h1>Hello</h1>
+    return (
+        <Header />
+    )
 }
+    
 
 export default App;
