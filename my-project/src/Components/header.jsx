@@ -27,7 +27,7 @@ const Header = () => {
                     <a href="/"
                     className="logo">
                         <img 
-                        src="/images/b_icon.svg"
+                        src="/images/b_icon_white.svg"
                         width={40}
                         height={40}
                         alt="Bert Edwards" />
